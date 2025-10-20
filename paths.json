@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/oxford/language-masters/en:/",
+    "/content/oxford/language-masters/en/:/en/",
+    "/content/oxford/language-masters/fr/:/fr/",
+    "/content/oxford/language-masters/fr:/fr",
+    "/content/oxford/language-masters/es/:/es/",
+    "/content/oxford/language-masters/es:/es",
+    "/content/oxford/language-masters/ja/:/ja/",
+    "/content/oxford/language-masters/ja:/ja",
+    "/content/oxford/language-masters/de/:/de/",
+    "/content/oxford/language-masters/de:/de",
+    "/content/oxford/configuration:/.helix/config.json",
+    "/content/oxford/metadata:/metadata.json",
+    "/content/oxford/redirects:/redirects.json",
+    "/content/oxford/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/oxford/",
+    "/content/dam/oxford/"
   ]
 }
